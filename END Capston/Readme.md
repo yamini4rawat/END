@@ -61,5 +61,11 @@ But Logically the output function isn't accurate and can be improved by :
 - Bigger  training set .Better loss function.
 - Using improved Python keyword embeddings trained on larger corpus and more number of epochs.
 
+
+
 ### Thanks to Rohan and Zoheb for this awesome course. Although not able to complete this project properly.Trying to grasp new concepts of transformers and deep learning NLP.
 ### Looking forward to END Phase 2.
+
+Team:
+Yamini Rawat
+Deepak Saini
